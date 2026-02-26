@@ -77,7 +77,7 @@ fun MyCityApp(windowSizeClass: WindowSizeClass) {
     }
 }
 
-// ─── Medium Layout: Categories (sidebar) + Places/Details (main area) ─────────
+// ─── Medium Layout: Categories (sidebar) + Places/Details (main area)bhjbjh ─────────
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
